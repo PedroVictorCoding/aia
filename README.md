@@ -5,4 +5,4 @@
   
 ### Main goals
   - VIM like look;
-  - Text syntax interpretation;
+  - Text syntax interpretation and highlight;
